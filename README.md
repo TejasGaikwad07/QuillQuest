@@ -1,6 +1,6 @@
 Built a Medium like application in the following stack-
 React in the frontend
-Cloudflare workers in the backend
+Cloudflare workers for the backend
 zod as the validation library, type inference for the frontend types
 Typescript as the language
 Prisma as the ORM, with connection pooling
